@@ -2,6 +2,16 @@ Bosch Entry Exercise - Spring REST API
 
 ----------------------------------------------------------------------------------
 
+Instructions to open the file: 
+
+1- git clone https://github.com/David-Ferr/Bosch_Entry.git
+2- open SpringToolSuite 
+3- select File -> Open Projects from File System
+4- Choose the Directory named Bosch_Entry inside the main project's folder
+5- Execute the main .java application
+
+----------------------------------------------------------------------------------
+
 Available API Calls:
 
 1- getAllEmployees:
